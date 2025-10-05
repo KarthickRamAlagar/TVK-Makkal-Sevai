@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="public/BannerVideo.mp4" target="_blank">
     <img src="public/assets/Banner.png" alt="Watch MAKKAL SEVAI Intro Video" width="100%" />
-  </a>
 </p>
 
 <div style="margin-top:10px" align="center">
