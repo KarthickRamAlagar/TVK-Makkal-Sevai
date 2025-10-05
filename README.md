@@ -24,7 +24,7 @@
   <h2>
 <strong>MAKKAL SEVAI</strong> is a civic-grade web application designed to bridge the gap between the people (<em>Makkal</em>) and the TVK team. It blends secure document workflows, AI-powered assistance, and interactive data visualizations to deliver a transparent, emotionally resonant experience for Tamil Nadu citizens.
   </h2>
-  <h3><a href="https://your-live-site-link.com" target="_blank"><strong> Explore the Civic Platform</strong></a></h3>
+  <h3><a href="https://tvk-makkal-sevai.vercel.app/" target="_blank"><strong> Explore the Civic Platform</strong></a></h3>
 </div>
 
 ---
